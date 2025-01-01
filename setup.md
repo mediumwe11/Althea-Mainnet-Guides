@@ -75,3 +75,4 @@ sudo systemctl enable althea
 sudo systemctl restart althea
 journalctl -u althea -f -o cat
 ```
+12. If you want to sync your full node quickly you can use state sync guide here: [Althea State Sync](https://github.com/mediumwe11/Althea-Mainnet-Guides/blob/main/statesync.md)
