@@ -29,7 +29,7 @@ git pull
 ```
 5. Checkout to the actual tag:
 ```
-git checkout v6.7.0
+git checkout v1.4.0
 ```
 6. Build the software and copy ``althea`` binary file to ``/usr/local/bin``:
 ```
